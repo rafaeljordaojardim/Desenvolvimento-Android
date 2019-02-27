@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExemploNumberPicker">
+
+    <TextView
+        android:id="@+id/idTvMonth"
+        android:text="Month"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        app:layout_constraintTop_toBottomOf="@+id/idTvMonth"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <NumberPicker
+            android:layout_weight="1"
+            android:id="@+id/idNpYear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+        <NumberPicker
+            android:layout_weight="1"
+            android:id="@+id/idNpMonth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <NumberPicker
+            android:layout_weight="1"
+            android:id="@+id/idNpDay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

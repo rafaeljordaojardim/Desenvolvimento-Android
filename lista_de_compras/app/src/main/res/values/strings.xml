@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+    <string name="strChamarCriarLista">Criar uma Lista</string>
+    <string name="strChamarVerListas">Ver Listas</string>
+    <string name="strSair">Sair</string>
+    <string name="strNomeProduto">Nome do Produto</string>
+    <string name="strAdicionarProduto">Adicionar Produto</string>
+    <string name="strSalvarLista">Salvar Lista</string>
+    <string name="strCampoVazio">Campo Vazio!</string>
+    <string name="strOk">Ok</string>
+    <string name="strCancel">Cancel</string>
+    <string name="strProdutoExcluido">Produto "%1$s" excluído</string>
+    <string name="strDeuCerto">Lista Salva!</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="strNaoHaCompras">Não há compras!</string>
+    <string name="strFecharCompra">Fechar compra</string>
+    <string name="strErro">Erro!</string>
+    <string name="strListaExistente">Lista Existente!</string>
+    <string name="strQuantidadeDeItens"> %1$d Produto(s) na lista</string>
+    <string name="strQuantidadeQueFaltaComprar">Faltam %1$d Produto(s)</string>
+    <string name="strListaExcluida">Lista %1$s excluída!</string>
+    <string name="strTelaInicial">Ir para tela inicial</string>
+</resources>

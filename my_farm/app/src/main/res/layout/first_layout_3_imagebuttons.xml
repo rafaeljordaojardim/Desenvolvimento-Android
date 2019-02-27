@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:scaleType="fitCenter"
+        android:id="@+id/idIBtnCow"
+        android:src="@drawable/cow_states"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:scaleType="fitCenter"
+        app:layout_constraintTop_toBottomOf="@id/idIBtnCow"
+        android:id="@+id/idIBtnDuck"
+        android:src="@drawable/duck_states"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ImageButton
+        android:scaleType="fitCenter"
+        app:layout_constraintTop_toBottomOf="@id/idIBtnDuck"
+        android:id="@+id/idIBtnSheep"
+        android:src="@drawable/sheep_states"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</android.support.constraint.ConstraintLayout>

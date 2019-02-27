@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Web Favoritos</string>
+
+    <!--
+        este UTL é na realidade um redirect para
+        https://arturmarques.com/edu/ddm
+    -->
+    <string name="strUrlMad">https://arturmarques.com.edu.mad/</string>
+    <string name="strUrlDn">https://dn.pt/</string>
+
+    <!-- Strings para o Spimmer de my_arrays-->
+    <string name="strViaChooser">Via Chooser</string>
+    <string name="strViaWebViewInApp">Via Web View</string>
+    <string name="strViaChromePackage">Via Chrome</string>
+</resources>

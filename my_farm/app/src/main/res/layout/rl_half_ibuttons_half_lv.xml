@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/idTvInvisible"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <!-- recurso above a tv invisible-->
+    <LinearLayout
+        android:layout_above="@id/idTvInvisible"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageButton
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:id="@+id/idIBtnCow"
+            android:src="@drawable/cow_states"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageButton
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:id="@+id/idIBtnDuck"
+            android:src="@drawable/duck_states"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageButton
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:id="@+id/idIBtnSheep"
+            android:src="@drawable/sheep_states"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/idLvMsg"
+        android:layout_below="@id/idTvInvisible" />
+    <!-- recurso below a tv invisible-->
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="alNavigateOptions">
+        <item>@string/strViaChooser</item>
+        <item>@string/strViaWebViewInApp</item>
+        <item>@string/strViaChromePackage</item>
+
+    </string-array>
+
+</resources>

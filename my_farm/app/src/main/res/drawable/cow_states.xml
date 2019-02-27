@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        teremos 3 itens
+        correspondente a 3 estados para os quais pretendemos
+        3 apresentações distintas de "cow"
+        a ordem é muito importe
+    -->
+    <item
+        android:state_pressed="true"
+        android:drawable="@drawable/cow_pressed"/>
+    <item
+        android:state_focused="true"
+        android:drawable="@drawable/cow_focused"/>
+    <!-- deixar para o final o recurso mais generico e nao sujeito a nenhum estado particular-->
+    <item
+        android:drawable="@drawable/cow"/>
+</selector>
