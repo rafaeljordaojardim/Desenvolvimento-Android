@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motiva-me (ou não)</string>
+
+    <string name="strBtnGetMsg">Obter Mensagem</string>
+    <string name="strSeekBarExplanation">Para a direita mensagens positivas</string>
+
+
+    <string name="strPositive01">vc é capaz</string>
+    <string name="strPositive02">Amanhã é um oujto dia</string>
+    <string name="strPositive03">Não se preocupe</string>
+    <string name="strPositive04">isso é facil, sem stress</string>
+    <string name="strPositive05">não há nada pra ter medo</string>
+    <string name="strPositive06">você é lindo(a)</string>
+    <string name="strPositive07">será bem sucedido</string>
+    <string name="strPositive08">voce pode fazer isso</string>
+
+    <string name="strNegative01">voce deve temer hoje</string>
+    <string name="strNegative02">voce deve se preparar mais</string>
+    <string name="strNegative03">voce esta bem feio hoje</string>
+    <string name="strNegative04">acorde</string>
+    <string name="strNegative05">voce deve trabalhar mais</string>
+    <string name="strNegative06">agora pague seus erros</string>
+    <string name="strNegative07">se vc tivesse me escutado</string>
+    <string name="strNegative08">coisas ruins irao acontecer hoje</string>
+
+</resources>

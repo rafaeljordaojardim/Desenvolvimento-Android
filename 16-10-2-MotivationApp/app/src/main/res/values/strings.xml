@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Motivation me (not)</string>
+
+    <string name="strBtnGetMsg">Get Message</string>
+    <string name="strSeekBarExplanation">Right for +messages :)</string>
+
+
+    <string name="strPositive01">Just do it.</string>
+    <string name="strPositive02">Tomorrow is another day.</string>
+    <string name="strPositive03">Don\'t worry, there is a solution</string>
+    <string name="strPositive04">Take it easy, don\'t strees out</string>
+    <string name="strPositive05">You have nothing to fear</string>
+    <string name="strPositive06">You are beautiful. Realy</string>
+    <string name="strPositive07">You will be successful</string>
+    <string name="strPositive08">You can do it</string>
+
+    <string name="strNegative01">You should fear today</string>
+    <string name="strNegative02">You should have prepared better</string>
+    <string name="strNegative03">You are a tad ugly today!</string>
+    <string name="strNegative04">Wake up!</string>
+    <string name="strNegative05">You should have worked more.</string>
+    <string name="strNegative06">Now you pay for your mistakes!</string>
+    <string name="strNegative07">If you only have listened to me.</string>
+    <string name="strNegative08">Bad things will happen today.</string>
+
+
+</resources>

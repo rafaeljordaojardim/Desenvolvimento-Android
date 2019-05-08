@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">intents and more</string>
+
+    <string name="strEtUserName">Type yout name here (e.g John)</string>
+    <string name="strBtnSendName">Send your name to A2</string>
+
+    <string name="strWelcomeToA2">Welcome to A2</string>]
+
+    <string name="strHelloLeft">Hello </string>
+    <string name="strHelloRight">!!</string>
+</resources>

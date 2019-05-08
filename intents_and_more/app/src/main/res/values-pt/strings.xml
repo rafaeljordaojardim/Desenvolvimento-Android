@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">intents e mais</string>
+
+    <string name="strEtUserName">Escreva seu nome aqui (ex° João)</string>
+    <string name="strBtnSendName">Enviar nome para A2</string>
+
+    <string name="strWelcomeToA2">Bem vindo a A2</string>
+
+    <string name="strHelloLeft">Olá </string>
+    <string name="strHelloRight">!!</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrayPositiveSentences">
+        <item>@string/strPositive01</item>
+        <item>@string/strPositive02</item>
+        <item>@string/strPositive03</item>
+        <item>@string/strPositive04</item>
+        <item>@string/strPositive05</item>
+        <item>@string/strPositive06</item>
+        <item>@string/strPositive07</item>
+        <item>@string/strPositive08</item>
+    </string-array>
+
+    <string-array name="arrayNegativeSentences">
+        <item>@string/strNegative01</item>
+        <item>@string/strNegative02</item>
+        <item>@string/strNegative03</item>
+        <item>@string/strNegative04</item>
+        <item>@string/strNegative05</item>
+        <item>@string/strNegative06</item>
+        <item>@string/strNegative07</item>
+        <item>@string/strNegative08</item>
+    </string-array>
+</resources>
